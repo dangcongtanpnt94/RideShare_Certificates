@@ -1,0 +1,3 @@
+Device ID	Device Name
+be86cd9d966265f48e876cb4e342eefc9fc7a39a	tram - iPhone 6 Plus
+8227b6ea198f37571b0101bd12fce72cb07cf56b	tumf - iPhone SE
